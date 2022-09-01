@@ -1,6 +1,6 @@
 ### 👋 Hello there!
 
-<p>I'm a Full Stack Software Engineer with experience in Javascript, React.js, C#, ASP/.NET, and API's.</p>
+<p>I'm a Full Stack Software Engineer with experience in Javascript, React.js, C#, ASP/.NET, SQL, and API's.</p>
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/travis-lindsey) / [Gmail](mailto:travislindseydev@gmail.com)
 
