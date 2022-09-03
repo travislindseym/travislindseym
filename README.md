@@ -1,4 +1,4 @@
-### 👋 Hello there!
+###  Hi there 👋
 
 <p>I'm a Full Stack Software Engineer with experience in Javascript, React.js, C#, ASP/.NET, SQL, and API's.</p>
 
